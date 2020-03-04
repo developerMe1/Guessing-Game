@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="start">Start</string>
+    <string name="initialAns">0</string>
+    <string name="wrong">Wrong!</string>
+    <string name="correct">Correct!</string>
+    <string name="message">Let\'s begin!</string>
+    <string name="stop">Stop</string>
+    <string name="scoreCard">0/0</string>
+    <string name="Question">Can you guess the celebrity?</string>
+    <string name="picture_of_celibrity">picture Of Celibrity</string>
+    <string name="upperWasteFilter"><![CDATA[<div class=\"lister-list\">]]></string>
+    <string name="lowerWasteFilter"><![CDATA[<div class=\"row text-center lister-working hidden\"></div>]]></string>
+</resources>
